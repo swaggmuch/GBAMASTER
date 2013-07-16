@@ -20,3 +20,4 @@ GBAMASTER
 
 
 <p><strong>NOTE: You can sign the app your self by simply adding you Cert file and Provision file.
+<p><strong>NOTE: THIS IS FOR YOU ERICA !!! TOOK ME AWHILE I KNOW YOU LOVE GAMEBOY!
