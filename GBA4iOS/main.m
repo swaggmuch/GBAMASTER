@@ -2,8 +2,8 @@
 //  main.m
 //  GBA4iOS
 //
-//  Created by Riley Testut on 5/23/12.
-//  Copyright (c) 2012 Testut Tech. All rights reserved.
+//  Created by  RazorHACKS on 7/15/13.
+//  Copyright (c) 2013 Razor Tech. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
