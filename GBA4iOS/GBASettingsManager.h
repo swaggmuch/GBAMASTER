@@ -2,8 +2,8 @@
 //  GBASettingsManager.h
 //  GBA4iOS
 //
-//  Created by Riley Testut on 1/26/13.
-//  Copyright 2013 Testut Tech. All rights reserved.
+//  Created by RAZORHACKS on 7/15/13.
+//  Copyright 2013 RAZOR Tech. All rights reserved.
 //	File created using Singleton XCode Template by Mugunth Kumar (http://blog.mugunthkumar.com)
 //  More information about this template on the post http://mk.sg/89
 //  Permission granted to do anything, commercial/non-commercial with this file apart from removing the line/URL above
